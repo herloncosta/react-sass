@@ -11,6 +11,7 @@ Desenvolvimento guiado pelo professor Matheus Battisti - Hora de Codar
 - Javascript
 - React
 - Sass
+- Vite
 
 ### Link do projeto online 🖱
 
